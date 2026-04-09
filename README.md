@@ -29,7 +29,6 @@ networking-basics-lab/
 ├── labs/
 ├── packet-tracer-files/
 ├── screenshots/
-└── README.md
 ```
 
 ---
